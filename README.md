@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mohit Parmar</h1>
-<h3 align="center">Full Stack Developer | CSE Student | Intern @ Karmanaye Tech</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Parmar;Full+Stack+Developer+%7C+CE+Student;Intern+%40+Karmanaye+Tech" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full Stack Developer | CE Student | Intern @ Karmanaye Tech</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohitparmar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/MohitBytes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MohitBytes-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://mohitbytes.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
   </a>
 </p>
@@ -21,12 +24,12 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year Computer Engineering student @ Pacific School of Engineering (GTU)
-- 💼 Backend Intern at **Karmanaye Tech LLP**
-- 💡 Passionate about solving real-world problems with clean code
-- 🌱 Currently exploring **Spring Boot**, **Flask**, and **AI/ML**
-- 🧠 Interests: Web Development, AI/ML, Mobile Apps
-- 🤝 Always open to collaboration and creative coding challenges
+- 🎓 3rd-year Computer Engineering student @ Pacific School of Engineering (GTU)  
+- 💼 Backend Intern at **Karmanaye Tech LLP**  
+- 💡 Passionate about solving real-world problems with clean code  
+- 🌱 Currently exploring **Spring Boot**, **Flask**, and **AI/ML**  
+- 🧠 Interests: Web Development, AI/ML, Mobile Apps  
+- 🤝 Always open to collaboration and creative coding challenges  
 
 ---
 
@@ -56,10 +59,9 @@
 
 ### 🚀 Projects
 
-#### 📌 CollabEase – Task Management & Collaboration Tool  
+#### 📌 [CollabEase](https://github.com/MohitBytes/CollabEase.git) – Task Management & Collaboration Tool  
 > Simple, intuitive platform like Trello/Asana built for productivity  
-🛠 *Java Servlets, JSP, Bootstrap*  
-📍(https://github.com/MohitBytes/CollabEase.git)
+🛠 *Java Servlets, JSP, Bootstrap*
 
 #### 📰 AI News Summarizer  
 > Summarizes long news articles into short, digestible bites using NLP  
@@ -90,32 +92,33 @@
 
 ---
 
-# 📊 GitHub Stats (Active Since April 2025)
+## 📊 GitHub Stats (Active Since April 2025)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&custom_title=My GitHub Stats (2025 - Present)" alt="GitHub Stats for MohitBytes" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MohitBytes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak for MohitBytes" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true&custom_title=GitHub Stats (2025-Present)" 
+       alt="GitHub Stats for MohitBytes" />
+  
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=MohitBytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak for MohitBytes" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBytes&layout=compact&theme=tokyonight" alt="Most Used Languages by MohitBytes" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBytes&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages used by MohitBytes" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/MohitBytes" alt="GitHub Contribution Heatmap for MohitBytes" />
-</p>
-
-> 🟢 *Contributing actively since **April 2025** — learning, building, and shipping meaningful projects every week.*
-
+> 🟢 *Actively contributing since **April 2025** — building real-world solutions one repo at a time.*
 
 ---
 
 ### 📬 Let's Connect
 
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 🔗 LinkedIn: [your-profile](https://www.linkedin.com/in/your-linkedin-url/)
-- 🌐 Portfolio: *Coming Soon*
+- 📧 Email: [mohit.parmar@email.com](mailto:mohit.parmar@email.com)
+- 🔗 LinkedIn: [linkedin.com/in/mohitparmar](https://www.linkedin.com/in/mohitparmar)
+- 🌐 Portfolio: [mohitbytes.vercel.app](https://mohitbytes.vercel.app)
 
 ---
 
