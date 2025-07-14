@@ -59,7 +59,7 @@
 #### 📌 CollabEase – Task Management & Collaboration Tool  
 > Simple, intuitive platform like Trello/Asana built for productivity  
 🛠 *Java Servlets, JSP, Bootstrap*  
-📍 *[Repo Coming Soon]*
+📍(https://github.com/MohitBytes/CollabEase.git)
 
 #### 📰 AI News Summarizer  
 > Summarizes long news articles into short, digestible bites using NLP  
