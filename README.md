@@ -116,8 +116,8 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: [mohit.parmar@email.com](mailto:mohit.parmar@email.com)
-- 🔗 LinkedIn: [linkedin.com/in/mohitparmar](linkedin.com/in/mohitparmar23/)
+- 📧 Email: [mohitparmar1218@gmail.com](mailto:mohitparmar1218@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/mohitparmar23/](https://www.linkedin.com/in/mohitparmar23/)
 - 🌐 Portfolio: [mohitbytes.vercel.app](https://mohitbytes.vercel.app)
 
 ---
