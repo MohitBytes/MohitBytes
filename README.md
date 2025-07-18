@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer | CE Student | Intern @ Karmanaye Tech</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/mohitparmar23/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohitparmar23/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/MohitBytes" target="_blank">
