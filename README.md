@@ -124,4 +124,4 @@
 
 ### 💡 Fun Fact  
 > I believe in building **practical solutions**, not just pretty UIs.  
-Let’s build something awesome together.
+Let’s build something awesome together!
