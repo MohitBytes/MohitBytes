@@ -63,10 +63,9 @@
 > Simple, intuitive platform like Trello/Asana built for productivity  
 🛠 *Java Servlets, JSP, Bootstrap*
 
-#### 📰 AI News Summarizer  
+#### 📰 [AI News Summarizer](https://github.com/MohitBytes/AI-NEWS-SUMMARIZER.git) 
 > Summarizes long news articles into short, digestible bites using NLP  
-🛠 *Python, Flask, HuggingFace Transformers*  
-📍 *[Repo Coming Soon]*
+🛠 *Python, Flask, HuggingFace Transformers* 
 
 #### 📇 Smart Contact Manager  
 > Web app to securely manage personal contacts  
