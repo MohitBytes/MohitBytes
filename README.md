@@ -74,13 +74,6 @@
 
 ---
 
-### 🎯 Goals
-
-- ✅ Build a strong developer portfolio  
-- 💻 Land backend/full stack internships or remote freelance roles  
-- 🤝 Start contributing to open source projects soon  
-- 🧱 Keep improving — one repo at a time
-
 ---
 
 ### 🏆 GitHub Trophies
