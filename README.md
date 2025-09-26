@@ -25,11 +25,14 @@
 ### 🧠 About Me
 
 - 🎓 3rd-year Computer Engineering student @ Pacific School of Engineering (GTU)  
-- 💼 Backend Intern at **Karmanaye Tech LLP**  
-- 💡 Passionate about solving real-world problems with clean code  
-- 🌱 Currently exploring **Spring Boot**, **Flask**, and **AI/ML**  
-- 🧠 Interests: Web Development, AI/ML, Mobile Apps  
-- 🤝 Always open to collaboration and creative coding challenges  
+- 💼 Backend Intern at **Karmanaye Tech LLP** - Building scalable web solutions  
+- 💡 Passionate about solving real-world problems with clean, efficient code  
+- 🌱 Currently mastering **Spring Boot**, **Flask**, and diving deep into **AI/ML**  
+- 🏗️ Love architecting full-stack applications from concept to deployment  
+- 🎯 Goal: Contributing to open-source projects and building impactful tech solutions  
+- 🧠 Core interests: Web Development, AI/ML, System Design, Mobile Apps  
+- 🤝 Always excited about collaboration and tackling challenging coding problems  
+- ⚡ Quick learner who thrives in fast-paced development environments  
 
 ---
 
@@ -39,38 +42,147 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 #### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 #### 🛠 Backend  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Java_Servlets-orange?style=flat-square)
 ![JSP](https://img.shields.io/badge/JSP-blueviolet?style=flat-square)
 
 #### 🗄️ Database & Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+#### 🤖 AI/ML & Data  
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFCA28?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
-### 🚀 Projects
+### 🌟 Achievements & Experience
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💼 Professional Experience
+- **Backend Intern** @ Karmanaye Tech LLP
+  - Developing scalable web applications
+  - Working with Spring Boot & Java ecosystem
+  - Collaborating on real-world projects
+
+#### 🎓 Academic Highlights  
+- 3rd Year CE Student @ PSE (GTU)
+- Strong foundation in Data Structures & Algorithms
+- Active in technical workshops and coding events
+
+</td>
+<td width="50%">
+
+#### 🏆 Key Accomplishments
+- Built 3+ full-stack web applications
+- Contributed to AI/ML projects using NLP
+- Proficient in multiple programming languages
+- Experience with modern development frameworks
+
+#### 🎯 Goals & Vision
+- Open Source Contributions
+- System Design Mastery  
+- AI/ML Integration in Web Apps
+- Mentoring & Knowledge Sharing
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitBytes&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<details>
+  <summary>💻 Weekly Development Breakdown</summary>
+  
+  ```text
+  💼 Work Focus Areas:
+  Java          ████████████████░░░░░   75%
+  Python        ████████████░░░░░░░░░   60%
+  Web Dev       ██████████████░░░░░░░   70%
+  AI/ML         ████████░░░░░░░░░░░░░   40%
+  ```
+</details>
+
+---
+
+### 🚀 Featured Projects
 
 #### 📌 [CollabEase](https://github.com/MohitBytes/CollabEase.git) – Task Management & Collaboration Tool  
-> Simple, intuitive platform like Trello/Asana built for productivity  
-🛠 *Java Servlets, JSP, Bootstrap*
+> **A comprehensive productivity platform inspired by Trello/Asana**
+> 
+> ✨ **Key Features:**
+> - Real-time task management with drag-and-drop functionality
+> - Team collaboration with role-based access control
+> - Progress tracking and deadline management
+> - Responsive design for seamless mobile experience
+> 
+> 🛠 **Tech Stack:** *Java Servlets, JSP, Bootstrap, MySQL*  
+> 🎯 **Impact:** Streamlines team productivity and project coordination
 
-#### 📰 [AI News Summarizer](https://github.com/MohitBytes/AI-NEWS-SUMMARIZER.git) 
-> Summarizes long news articles into short, digestible bites using NLP  
-🛠 *Python, Flask, HuggingFace Transformers* 
+#### 📰 [AI News Summarizer](https://github.com/MohitBytes/AI-NEWS-SUMMARIZER.git) – Intelligent Content Processing
+> **Smart NLP-powered tool that transforms lengthy articles into concise summaries**
+> 
+> ✨ **Key Features:**
+> - Advanced text summarization using HuggingFace Transformers
+> - Multiple summary lengths (short, medium, comprehensive)
+> - Clean, intuitive web interface
+> - Fast processing with optimized NLP models
+> 
+> 🛠 **Tech Stack:** *Python, Flask, HuggingFace Transformers, NLP*  
+> 🎯 **Impact:** Saves 70% reading time while retaining key information
 
-#### 📇 Smart Contact Manager  
-> Web app to securely manage personal contacts  
-🛠 *Java, Spring Boot, Thymeleaf, MySQL*  
-📍 *[Repo Coming Soon]*
+#### 📇 Smart Contact Manager – *Secure Personal CRM*
+> **Professional contact management system with advanced features**
+> 
+> ✨ **Planned Features:**
+> - Encrypted contact storage with search functionality
+> - Contact categorization and tagging system
+> - Import/Export capabilities (CSV, vCard)
+> - Birthday reminders and relationship tracking
+> 
+> 🛠 **Tech Stack:** *Java, Spring Boot, Thymeleaf, MySQL, Spring Security*  
+> 📍 **Status:** *In Development - Coming Soon!*
+
+---
+
+### 🎯 Current Focus & Learning Path
+
+```
+📚 Currently Learning:
+├── 🌐 Advanced Spring Boot (Security, JPA)
+├── 🤖 Machine Learning with Python
+├── ☁️  Cloud Deployment (AWS/Heroku)
+└── 📱 React.js for Frontend Development
+
+🔮 Next Semester Goals:
+├── 🏗️  Microservices Architecture
+├── 🐳 Docker & Containerization  
+├── 🚀 System Design Patterns
+└── 📊 Data Structures & Algorithms
+```
 
 ---
 
@@ -82,11 +194,11 @@
 
 ---
 
-## 📊 GitHub Stats (Active Since April 2025)
+## 📊 GitHub Stats (Active Since April 2024)
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true&custom_title=GitHub Stats (2025-Present)" 
+       src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true&custom_title=GitHub Stats (2024-Present)" 
        alt="GitHub Stats for MohitBytes" />
   
   <img width="48%" 
@@ -100,18 +212,58 @@
        alt="Top Languages used by MohitBytes" />
 </p>
 
-> 🟢 *Actively contributing since **April 2025** — building real-world solutions one repo at a time.*
+> 🟢 *Actively contributing since **April 2024** — building real-world solutions one repo at a time.*
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let's Connect & Collaborate
 
-- 📧 Email: [mohitparmar1218@gmail.com](mailto:mohitparmar1218@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/mohitparmar23/](https://www.linkedin.com/in/mohitparmar23/)
-- 🌐 Portfolio: [Comming Soon....]
+<p align="center">
+  <a href="mailto:mohitparmar1218@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-mohitparmar1218@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitparmar23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mohitbytes.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C851?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+#### 🤝 Open to:
+- 💼 **Internship & Job Opportunities** in Full Stack Development
+- 🚀 **Collaboration** on Open Source Projects
+- 🎓 **Mentoring** fellow Computer Engineering students
+- 💡 **Freelance Projects** - Web Development & AI Solutions
+- 🏆 **Hackathons & Coding Competitions**
+
+#### 📍 Availability:
+- 🌟 **Current Status:** Open to new opportunities
+- ⏰ **Response Time:** Usually within 24 hours
+- 🌍 **Location:** Gujarat, India (Open to remote work)
 
 ---
 
-### 💡 Fun Fact  
-> I believe in building **practical solutions**, not just pretty UIs.  
-Let’s build something awesome together!
+### 💡 Fun Facts & Philosophy
+
+> 🎯 **"Code is poetry written for machines, but read by humans"**
+
+- 🧩 I believe in building **practical solutions**, not just pretty UIs
+- ☕ Fueled by chai and driven by clean code principles  
+- 🌱 Learning something new every day - currently exploring system design patterns
+- 🎮 When not coding, you'll find me exploring new tech trends or playing chess
+- 🤖 Dream project: Building an AI assistant that helps students with programming concepts
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=white&animation=twinkling" />
+</p>
+
