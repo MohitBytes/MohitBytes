@@ -84,7 +84,7 @@
 
 #### 🎓 Academic Highlights  
 - Final Year CE Student @ PSE (GTU)
-- Strong foundation in Data Structures & Algorithms
+- Strong foundation in Web Development
 - Active in technical workshops and coding events
 
 </td>
