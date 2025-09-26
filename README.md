@@ -24,7 +24,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year Computer Engineering student @ Pacific School of Engineering (GTU)  
+- 🎓 Final-year Computer Engineering student @ Pacific School of Engineering (GTU)  
 - 💼 Backend Intern at **Karmanaye Tech LLP** - Building scalable web solutions  
 - 💡 Passionate about solving real-world problems with clean, efficient code  
 - 🌱 Currently mastering **Spring Boot**, **Flask**, and diving deep into **AI/ML**  
@@ -83,7 +83,7 @@
   - Collaborating on real-world projects
 
 #### 🎓 Academic Highlights  
-- 3rd Year CE Student @ PSE (GTU)
+- Final Year CE Student @ PSE (GTU)
 - Strong foundation in Data Structures & Algorithms
 - Active in technical workshops and coding events
 
@@ -177,7 +177,7 @@
 ├── ☁️  Cloud Deployment (AWS/Heroku)
 └── 📱 React.js for Frontend Development
 
-🔮 Next Semester Goals:
+🔮 Next Goals:
 ├── 🏗️  Microservices Architecture
 ├── 🐳 Docker & Containerization  
 ├── 🚀 System Design Patterns
@@ -254,7 +254,7 @@
 - 🧩 I believe in building **practical solutions**, not just pretty UIs
 - ☕ Fueled by chai and driven by clean code principles  
 - 🌱 Learning something new every day - currently exploring system design patterns
-- 🎮 When not coding, you'll find me exploring new tech trends or playing chess
+- 🎮 When I’m away from code, you’ll usually find me exploring new technologies or working on video editing projects
 - 🤖 Dream project: Building an AI assistant that helps students with programming concepts
 
 <p align="center">
