@@ -198,11 +198,11 @@
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true&custom_title=GitHub Stats (2024-Present)" 
+       src="https://github-readme-stats.vercel.app/api?username=MohitBytes&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true&custom_title=GitHub%20Stats%20%282024-Present%29" 
        alt="GitHub Stats for MohitBytes" />
   
   <img width="48%" 
-       src="https://streak-stats.demolab.com?user=MohitBytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       src="https://streak-stats.demolab.com/?user=MohitBytes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
        alt="GitHub Streak for MohitBytes" />
 </p>
 
