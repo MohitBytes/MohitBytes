@@ -154,6 +154,18 @@
 > 🛠 **Tech Stack:** *Python, Flask, HuggingFace Transformers, NLP*  
 > 🎯 **Impact:** Saves 70% reading time while retaining key information
 
+#### 🚀 [QuickSend](https://github.com/MohitBytes/QuickSend.git) – Fast & Secure File Sharing Platform
+> **Modern file sharing platform for instant file and text transfer with simple 6-digit codes**
+> 
+> ✨ **Key Features:**
+> - Secure file and text sharing with auto-expiry (10 minutes)
+> - Support for multiple files (up to 20 files, 200MB total)
+> - Simple 6-digit code-based sharing system
+> - Docker-ready deployment with RESTful API
+> 
+> 🛠 **Tech Stack:** *Java 17, Spring Boot 4.0.1, HTML5, CSS3, Vanilla JavaScript*  
+> 🎯 **Impact:** Enables quick, secure, and temporary file sharing without registration
+
 #### 📇 Smart Contact Manager – *Secure Personal CRM*
 > **Professional contact management system with advanced features**
 > 
